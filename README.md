@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning reactjs, nodejs
 - 💞️ I’m looking to collaborate on fun projects
 - 📫 ikuzowesley@gmail.com
-- 😄 Pronouns
 - ⚡ Fun fact:Ada Lovelace, the first programmer, wrote code in the 1840s for a computer that didn’t exist yet! 💻
 
 <!---
